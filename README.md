@@ -15,9 +15,9 @@ Bo mạch được thiết kế nhỏ gọn, độ nhiễu thấp, sẵn sàng c
 ---
 
 ## 🛠️ Thành phần linh kiện chính
-* **MCU:** [Điền tên MCU bạn dùng, ví dụ: STM32F103 / ESP32 / ATmega328P]
-* **Storage:** EEPROM 512k (Giao tiếp I2C/SPI)
-* **Clock:** RTC Module [Điền mã chip RTC nếu có, ví dụ: DS3231 / DS1307]
+* **MCU:** ATmega328P-AU
+* **Storage:** EEPROM 512k (Giao tiếp I2C)
+* **Clock:** RTC Module DS1337S+
 * **Nguồn cấp:** Tích hợp mạch bảo vệ và hạ áp ổn định.
 
 ---
