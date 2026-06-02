@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DS1337") (type "KiCad") (uri "C:/Users/hophu/Documents/Giai_doan_1/Kicad/Projects/MCU_datalogger_with_build-in_512k_EMMPROM_and_clock/Libraries/DS1337S_/DS1337.kicad_sym") (options "") (descr ""))
+	(lib (name "ATMEGA328-AU") (type "KiCad") (uri "C:/Users/hophu/Documents/Giai_doan_1/Kicad/Projects/MCU_datalogger_with_build-in_512k_EMMPROM_and_clock/Libraries/ATMEGA328-AU/ATMEGA328-AU.kicad_sym") (options "") (descr ""))
+	(lib (name "DS1337S_") (type "KiCad") (uri "C:/Users/hophu/Documents/Giai_doan_1/Kicad/Projects/MCU_datalogger_with_build-in_512k_EMMPROM_and_clock/Libraries/DS1337S_/DS1337S_.kicad_sym") (options "") (descr ""))
+	(lib (name "ATMEGA328P-AU") (type "KiCad") (uri "C:/Users/hophu/Documents/Giai_doan_1/Kicad/Projects/MCU_datalogger_with_build-in_512k_EMMPROM_and_clock/Libraries/ATMEGA328P-AU/ATMEGA328P-AU.kicad_sym") (options "") (descr ""))
+)
